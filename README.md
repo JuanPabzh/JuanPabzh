@@ -19,6 +19,7 @@ Sistema empresarial desarrollado en Java con enfoque en backend y bases de datos
 🧠 Tecnologías
 Backend
 - Java
+
 Bases de datos
 - MySQL
 
