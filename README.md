@@ -1,38 +1,66 @@
-🚀 Juan Baza | Software Developer
+🚀 Juan Pablo Baza | Software Developer
 
-💻 Desarrollador de software enfocado en sistemas empresariales  
+📍 Valledupar, Cesar, Colombia  
+✉️ juanpabzh@gmail.com  
+💻 [github.com/JuanPabzh](https://github.com/JuanPabzh)
+
+---
+
+💻 Técnico en Programación de Software · SENA  
 ⚙️ Experiencia en Java, bases de datos y aplicaciones backend  
 🌐 En camino a Full Stack Developer  
-🚚 Creador de RapidCargo (sistema de gestión logística)
+🚚 Creador de **RapidCargo** — sistema de gestión empresarial en Java  
 
-🔥 Proyecto Principal
-🚚 RapidCargo
-Sistema empresarial desarrollado en Java con enfoque en backend y bases de datos:
-- 🔐 Autenticación segura con SHA-256  
-- 📧 Recuperación de contraseña por correo (SMTP Gmail)  
-- 👤 Gestión de usuarios y perfiles  
-- 🧩 Interfaz en Java Swing  
-- 🗄️ Integración con MySQL  
+---
+
+## 🔥 Proyecto Principal
+
+### 🚚 RapidCargo S.A.S — Sistema de Gestión Empresarial
+
+Proyecto académico desarrollado en **Java** con interfaz gráfica y base de datos relacional:
+
+- 🔐 Cifrado de contraseñas con **SHA-256**
+- 📧 Recuperación de contraseña por correo (**SMTP Gmail**)
+- 👤 CRUD completo de usuarios y perfiles
+- 🧩 Interfaz gráfica en **Java Swing**
+- 🗄️ Integración con **MySQL**
+- ✅ Validación y actualización de datos en tiempo real
 
 👉 [Ver proyecto](https://github.com/JuanPabzh/RapidCargo)
 
-🧠 Tecnologías
-Backend
-- Java
+---
 
-Bases de datos
-- MySQL
+## 🧠 Tecnologías
 
-Herramientas
+**Backend**
+- Java (POO, estructuras de datos)
+- Spring Boot *(nivel básico)*
+
+**Frontend**
+- HTML, CSS, JavaScript *(nivel básico)*
+- Java Swing / AWT
+
+**Bases de datos**
+- MySQL · SQL relacional
+
+**Seguridad**
+- Hash SHA-256
+
+**Herramientas**
 - Git & GitHub
-- Java Swing
+- Excel *(nivel intermedio)*
 
-🎯 Objetivo Profesional
+---
 
-Convertirme en desarrollador Full Stack, con base fuerte en backend y bases de datos, capaz de construir sistemas completos de extremo a extremo.
+## 🎯 Objetivo Profesional
 
-📈 Intereses laborales
+Técnico en formación buscando **etapa productiva** donde aplicar mis conocimientos en desarrollo backend con Java y bases de datos. Mi meta es crecer hacia el desarrollo Full Stack, construyendo sistemas completos de extremo a extremo.
 
-- Desarrollo Backend (Java)
-- Administración de Bases de Datos
-- Desarrollo Full Stack (en evolución)
+---
+
+## 📈 Intereses laborales
+
+- 🔧 Desarrollo Backend (Java)
+- 🗄️ Administración de Bases de Datos
+- 🌐 Desarrollo Full Stack *(en evolución)*
+- 📦 Sistemas empresariales y logísticos
