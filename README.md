@@ -1,4 +1,4 @@
-🚀 Juan Pablo Baza | Software Developer
+🚀 Juan Pablo Baza Hernandez | Software Developer
 
 📍 Valledupar, Cesar, Colombia  
 ✉️ juanpabzh@gmail.com  
