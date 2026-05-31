@@ -33,11 +33,11 @@ Proyecto académico desarrollado en **Java** con interfaz gráfica y base de dat
 ## 🧠 Tecnologías
 
 **Backend**
-- Java (POO, estructuras de datos)
-- Spring Boot *(nivel básico)*
+- Java 
+- Spring Boot
 
 **Frontend**
-- HTML, CSS, JavaScript *(nivel básico)*
+- HTML, CSS, JavaScript
 - Java Swing / AWT
 
 **Bases de datos**
@@ -48,7 +48,7 @@ Proyecto académico desarrollado en **Java** con interfaz gráfica y base de dat
 
 **Herramientas**
 - Git & GitHub
-- Excel *(nivel intermedio)*
+- Excel 
 
 ---
 
@@ -62,5 +62,5 @@ Técnico en formación buscando **etapa productiva** donde aplicar mis conocimie
 
 - 🔧 Desarrollo Backend (Java)
 - 🗄️ Administración de Bases de Datos
-- 🌐 Desarrollo Full Stack *(en evolución)*
+- 🌐 Desarrollo Full Stack
 - 📦 Sistemas empresariales y logísticos
